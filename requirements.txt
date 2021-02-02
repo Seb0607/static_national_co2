@@ -9,4 +9,5 @@ ipython==7.16.1
 ipython-cache==0.2.6
 ipython-genutils==0.2.0
 ipykernel==5.4.2
-
+cloudpickle==1.2.1
+pickleshare==0.7.5 
